@@ -1,5 +1,4 @@
 import { Resend } from 'resend';
-import { Email } from './email';
 import { NextResponse } from 'next/server';
 import EmailTemplate from '@/emails';
 
